@@ -1,0 +1,124 @@
+body{
+  background-color: grey;
+}
+h2
+{
+  font-size: 33px;
+}
+.flex-container {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+
+  -webkit-flex-flow: row wrap;
+  justify-content: space-around;
+}
+
+
+.flex-item1 {
+  background: #C79595;
+  padding: 5px;
+  width: 300px;
+  height: 650px;
+  margin-top: 10px;
+
+
+}
+.name
+{
+  text-align: center;
+  color:black;
+  font-size: 30px;
+}
+
+.contact
+{
+  text-align: center;
+  font-size:30px;
+}
+
+.contact1
+{
+  font-size:20px;
+}
+
+.contact2
+{
+  font-size:20px;
+}
+
+.flex-item2 {
+  background: #C79595;
+  padding: 5px;
+  width: 900px;
+  height: 650px;
+  margin-top: 10px;
+
+
+  color: white;
+  font-weight: bold;
+
+}
+
+.flex-item2,ol
+{
+  list-style: none;
+}
+
+.c
+{
+  font-size: 30px;
+  color:black;
+}
+
+.q
+{
+  font-size: 30px;
+  color:black;
+}
+
+.a
+{
+  font-size: 30px;
+  color:black;
+}
+.h
+{
+  font-size: 30px;
+  color:black;
+}
+
+.p
+{
+  font-size: 20px;
+}
+
+table,td,th
+{
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+td,th
+{
+  padding: 10px;
+}
+th
+{
+  font-size: 25px;
+}
+
+.a1
+{
+  font-size: 20px;
+}
+.h1
+{
+  font-size: 20px;
+}
